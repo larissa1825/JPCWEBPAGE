@@ -11,7 +11,6 @@
     background-color: lightgreen;
     padding: 0.2px;
     font-family: Book Antiqua;
-    size: 50px;
   }
 
   /* Add styles for the navigation menu */
@@ -46,6 +45,6 @@
     padding: 0.1px;
     text-align: center;
     font-family: Arial;
-    font-size: 30px;
+    font-size: 15px;
   }
 </style>
