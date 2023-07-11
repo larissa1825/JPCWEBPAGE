@@ -2,7 +2,6 @@
   /* Add styles for the body */
   body {
     font-family: Calibri;
-    size: 50px;
     margin: 0;
     padding: 0;
   }
@@ -12,7 +11,7 @@
     background-color: lightgreen;
     padding: 0.2px;
     font-family: Book Antiqua;
-    
+    size: 50px;
   }
 
   /* Add styles for the navigation menu */
